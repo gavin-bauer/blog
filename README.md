@@ -17,6 +17,6 @@
 
 ---
 
-** Gavin's notes** is my blog where I write about Data Science &amp; Analytics. 
+**Gavin's notes** is my blog where I write about Data Science &amp; Analytics. 
 
 As of now, I mostly write about my re-implementations of basic machine learning algorithms in Python, using only Numpy (for computations) and Matplotlib (for visualizations).
