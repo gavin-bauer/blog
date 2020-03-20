@@ -68,7 +68,7 @@ plt.show()
 ```
 
 
-![png](https://github.com/gavin-bauer/blog/tree/master/static/images/Logistic-Regression/data.png)
+![png](/images/Logistic-Regression/data.png)
 
 
 ## Hypothesis representation
@@ -306,11 +306,11 @@ if __name__ == "__main__":
 
 
 
-![png](https://github.com/gavin-bauer/blog/tree/master/static/images/Logistic-Regression/loss.png)
+![png](/images/Logistic-Regression/loss.png)
 
 
 
-![png](https://github.com/gavin-bauer/blog/tree/master/static/images/Logistic-Regression/model.png)
+![png](/images/Logistic-Regression/model.png)
 
 
 
@@ -334,5 +334,5 @@ plt.show()
 
 
 
-![png](https://github.com/gavin-bauer/blog/tree/master/static/images/Logistic-Regression/scikit-learn.png)
+![png](/images/Logistic-Regression/scikit-learn.png)
 
