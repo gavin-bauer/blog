@@ -20,8 +20,6 @@ autoCollapseToc: true
 math: true
 ---
 
-# 
-
 #### Synopsis
 In order to understand the details of the most frequent algorithms in Machine Learning, I have recoded the core concepts in Python using only Numpy (for computations) and Matplotlib (for visualizations).
 
@@ -37,7 +35,7 @@ It is recommended that the reader is familiar with fundamental machine learning 
 
 2. Pass the data into a learning algorithm (denoted \\( h \\) for hypothesis).
 
-3. The algorithm outputs a value between 0 and 1, which should be treated as the estimated probability that \\(y = 1 \\) on input x, which can be written as:
+3. The algorithm outputs a value between 0 and 1, which should be treated as the estimated probability that \\( y = 1 \\) on input x, which can be written as:
 
      $$h_\theta(x) = P(y=1 | x ; \theta)$$
 
