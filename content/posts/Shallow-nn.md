@@ -34,7 +34,7 @@ To make reading easier, I've taken out some helper functions from the post. You 
 ## Goal
 Build a shallow neural network (nn) capable of fitting a "flower" 2-class dataset. Therefore demonstrating how nn are able to fit more complex data compared to logistic regression.
 
-1. Create a "flower" 2-class dataset with purple (y=0) and yellow (y=1) points.
+1. Create a "flower" 2-class dataset with purple \\( (y=0) \\) and yellow \\( (y=1) \\) points.
 
 2. Pass the data through the algorithm. 
 
